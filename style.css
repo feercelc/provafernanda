@@ -1,8 +1,16 @@
 body { 
   background-color: #b8c1df;
 }
+
 p {
   color: rgb(73, 91, 129);
 }
+
 h1 {
-  font-style:italic;}
+  font-style:italic;
+}
+ 
+.p2 {
+  color: rgb(70, 96, 153);
+  font-size: 20px ;
+}
